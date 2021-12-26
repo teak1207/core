@@ -16,7 +16,7 @@ public class OrderServiceImpl  implements  OrderService{
      */
     //  private final DiscountPolicy discountPolicy = new FixDiscountPolicy();
     //  private final DiscountPolicy discountPolicy = new RateDiscountPolicy();
-
+    // commit TEST
     private  final  MemberRepository  memberRepository;
     private final  DiscountPolicy discountPolicy;
 
